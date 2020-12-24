@@ -18,8 +18,8 @@ function preload() {
 
 function draw() {
   fill(random(255),190,random(200,255));
-  textSize(30);
-  text('지은을 천천히 입력하세요.(컴퓨터 키보드)', 1020,550);
+  textSize(20);
+  text('지은을 천천히 입력하세요.(컴퓨터 키보드)', 1020,570);
 }
 
 function keyPressed(){
