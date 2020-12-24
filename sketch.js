@@ -53,7 +53,7 @@ function keyPressed(){
   }else if (keyCode === 83) {
     textSize(60);
      fill(229,44,35);
-     text('♥Merry Christmasa♥',1660,460);
+     text('♥Merry Christmas♥',1660,460);
      textSize(40);
       fill(34,82,27);
       text('From.가영',1860,530);
