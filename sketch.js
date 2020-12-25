@@ -58,5 +58,5 @@ function keyPressed(){
       fill(34,82,27);
       text('From.가영',1860,530);
 
-}
+  }
 }
